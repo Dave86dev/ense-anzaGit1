@@ -1,13 +1,15 @@
 {
-    "idleHeartbeats": 239,
-    "navigatingHeartbeats": 4,
-    "totalCodingHeartbeats": 153,
+    "idleHeartbeats": 540,
+    "navigatingHeartbeats": 5,
+    "totalCodingHeartbeats": 309,
     "languageHeartbeats": {
-        "html": 108,
-        "plaintext": 45
+        "html": 219,
+        "plaintext": 45,
+        "scminput": 45
     },
     "fileHeartbeats": {
-        "index.html": 108,
-        "d:\\fsdEnero\\GIT\\Git1\\index.html.git": 45
+        "index.html": 219,
+        "d:\\fsdEnero\\GIT\\Git1\\index.html.git": 45,
+        "scm\\git\\scm0\\input": 45
     }
 }
